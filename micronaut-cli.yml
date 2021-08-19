@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.crud
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jpa, h2, http-client, java, java-application, jdbc-hikari, junit, logback, maven, netty-server, readme, shade, yaml]
