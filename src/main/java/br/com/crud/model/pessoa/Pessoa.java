@@ -1,4 +1,4 @@
-package br.com.crud.model;
+package br.com.crud.model.pessoa;
 
 import io.micronaut.core.annotation.Introspected;
 import lombok.*;

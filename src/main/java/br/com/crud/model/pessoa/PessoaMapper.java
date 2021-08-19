@@ -1,6 +1,5 @@
-package br.com.crud.model;
+package br.com.crud.model.pessoa;
 
-import jakarta.inject.Singleton;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

@@ -1,8 +1,8 @@
 package br.com.crud.controller;
 
-import br.com.crud.model.Pessoa;
-import br.com.crud.model.PessoaDTO;
-import br.com.crud.model.PessoaMapper;
+import br.com.crud.model.pessoa.Pessoa;
+import br.com.crud.model.pessoa.PessoaDTO;
+import br.com.crud.model.pessoa.PessoaMapper;
 import br.com.crud.repository.PessoaRepository;
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.annotation.Controller;

@@ -1,6 +1,6 @@
 package br.com.crud.repository;
 
-import br.com.crud.model.Pessoa;
+import br.com.crud.model.pessoa.Pessoa;
 import io.micronaut.data.annotation.Repository;
 import io.micronaut.data.jpa.repository.JpaRepository;
 

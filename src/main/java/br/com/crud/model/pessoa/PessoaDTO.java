@@ -1,4 +1,4 @@
-package br.com.crud.model;
+package br.com.crud.model.pessoa;
 
 import lombok.*;
 
